@@ -1,0 +1,6 @@
+{
+  "Name": "Downloads Janitor",
+  "ProjectType": "Process",
+  "Description": "Cleanup for the downloads file",
+  "MainFile": "Main.xaml"
+}
